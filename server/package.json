@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Privacy-first server for secure document processing and chat",
   "main": "index.js",
-  "author": "Shadow Protocol Team",
+  "author": "Shroud Network Team",
   "license": "MIT",
   "private": false,
   "engines": {

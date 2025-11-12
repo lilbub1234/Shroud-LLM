@@ -4,7 +4,7 @@
   "description": "Privacy-first local LLM platform for secure document chat with advanced privacy features including timer-based deletion, BYOK, and redaction.",
   "main": "index.js",
   "type": "module",
-  "author": "Shadow Protocol Team",
+  "author": "Shroud Network Team",
   "license": "MIT",
   "engines": {
     "node": ">=18"

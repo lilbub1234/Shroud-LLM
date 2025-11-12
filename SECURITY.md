@@ -19,10 +19,10 @@ We provide security updates for the following versions:
 If you discover a security vulnerability, please report it responsibly:
 
 ### Preferred Method: GitHub Security Advisories
-Report privately via [GitHub Security Advisories](https://github.com/lilbub1234/Shadow-Protocol/security/advisories/new)
+Report privately via [GitHub Security Advisories](https://github.com/lilbub1234/Shroud-LLM/security/advisories/new)
 
 ### Alternative Method: Email
-Email us at: **security@shadowprotocol.dev**
+Email us at: **security@shroudnetwork.dev**
 
 ### What to Include
 
@@ -111,8 +111,8 @@ _No disclosures yet. Be the first to help make Shroud LLM more secure!_
 ## Questions?
 
 For non-security questions, please use:
-- GitHub Issues: [https://github.com/lilbub1234/Shadow-Protocol/issues](https://github.com/lilbub1234/Shadow-Protocol/issues)
-- Discussions: [https://github.com/lilbub1234/Shadow-Protocol/discussions](https://github.com/lilbub1234/Shadow-Protocol/discussions)
+- GitHub Issues: [https://github.com/lilbub1234/Shroud-LLM/issues](https://github.com/lilbub1234/Shroud-LLM/issues)
+- Discussions: [https://github.com/lilbub1234/Shroud-LLM/discussions](https://github.com/lilbub1234/Shroud-LLM/discussions)
 
 For security concerns, always use the private reporting methods above.
 

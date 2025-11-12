@@ -173,7 +173,7 @@ Mintplex Labsおよびコミュニティは、AnythingLLMをローカルで実�
 
 ## テレメトリーとプライバシー
 
-Shadow Protocol Teamによって開発されたAnythingLLMには、匿名の使用情報を収集するテレメトリー機能が含まれています。
+Shroud Network Teamによって開発されたShroud LLMは、プライバシーを優先し、テレメトリーをデフォルトで無効にしています。
 
 <details>
 <summary><kbd>AnythingLLMのテレメトリーとプライバシーについての詳細</kbd></summary>

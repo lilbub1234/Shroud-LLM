@@ -5,7 +5,7 @@ Shroud LLM is an open-source, privacy-first project and we welcome contributions
 ## Reporting Issues
 
 If you encounter a bug or have a feature request, please open an issue on the
-[GitHub issue tracker](https://github.com/lilbub1234/Shadow-Protocol/issues).
+[GitHub issue tracker](https://github.com/lilbub1234/Shroud-LLM/issues).
 
 ## Picking an Issue
 
@@ -27,21 +27,21 @@ Before starting work on an issue, please read the following to avoid wasted effo
 
 3. It is our discretion to merge or not merge a PR. We value every contribution but also value code quality and our privacy-first vision. This is not personal - we will provide feedback to help get PRs merged.
 
-4. **Security** is always paramount. If you have a security concern, **do not open a public issue**. Instead, please report privately via [GitHub Security Advisories](https://github.com/lilbub1234/Shadow-Protocol/security/advisories) or contact us at security@shadowprotocol.dev.
+4. **Security** is always paramount. If you have a security concern, **do not open a public issue**. Instead, please report privately via [GitHub Security Advisories](https://github.com/lilbub1234/Shroud-LLM/security/advisories) or contact us at security@shroudnetwork.dev.
 
 ## Configuring Git
 
 First, fork the repository on GitHub, then clone your fork:
 
 ```bash
-git clone https://github.com/<username>/Shadow-Protocol.git
-cd Shadow-Protocol/shroud-llm
+git clone https://github.com/<username>/Shroud-LLM.git
+cd Shroud-LLM
 ```
 
 Then add the main repository as a remote:
 
 ```bash
-git remote add upstream https://github.com/lilbub1234/Shadow-Protocol.git
+git remote add upstream https://github.com/lilbub1234/Shroud-LLM.git
 git fetch upstream
 ```
 

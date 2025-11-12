@@ -180,8 +180,8 @@ Automatically detects and redacts:
 
 ```bash
 # Clone the repository
-git clone https://github.com/lilbub1234/Shadow-Protocol.git
-cd Shadow-Protocol/shroud-llm
+git clone https://github.com/lilbub1234/Shroud-LLM.git
+cd Shroud-LLM
 
 # Start with Docker
 docker-compose up -d
@@ -198,8 +198,8 @@ open http://localhost:3001
 # Prerequisites: Node.js 18+ and Yarn
 
 # Clone the repository
-git clone https://github.com/lilbub1234/Shadow-Protocol.git
-cd Shadow-Protocol/shroud-llm
+git clone https://github.com/lilbub1234/Shroud-LLM.git
+cd Shroud-LLM
 
 # Install dependencies
 yarn setup
@@ -364,8 +364,8 @@ npm install -g yarn
 #### 2️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/lilbub1234/Shadow-Protocol.git
-cd Shadow-Protocol/shroud-llm
+git clone https://github.com/lilbub1234/Shroud-LLM.git
+cd Shroud-LLM
 ```
 
 #### 3️⃣ Install & Configure
@@ -594,8 +594,8 @@ ENABLE_AUTO_REDACTION=true
 
 Found a vulnerability? Please report privately:
 
-- 🔒 [GitHub Security Advisories](https://github.com/lilbub1234/Shadow-Protocol/security/advisories)
-- ✉️ Email: security@shadowprotocol.dev
+- 🔒 [GitHub Security Advisories](https://github.com/lilbub1234/Shroud-LLM/security/advisories)
+- ✉️ Email: security@shroudnetwork.dev
 
 **Do not** open public issues for security concerns.
 
@@ -638,12 +638,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
 See [LICENSE](LICENSE) for full terms.
 
-### Attribution
-
-Shroud LLM is based on [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) by Mintplex Labs Inc. We're grateful for their excellent foundation.
-
-See [NOTICE.md](NOTICE.md) for complete attribution.
-
 ---
 
 ## 🌟 Roadmap
@@ -676,9 +670,9 @@ See [NOTICE.md](NOTICE.md) for complete attribution.
 ### Get Help
 
 - 📖 [Documentation](docs/)
-- 💬 [GitHub Discussions](https://github.com/lilbub1234/Shadow-Protocol/discussions)
-- 🐛 [Issue Tracker](https://github.com/lilbub1234/Shadow-Protocol/issues)
-- 📧 Email: support@shadowprotocol.dev
+- 💬 [GitHub Discussions](https://github.com/lilbub1234/Shroud-LLM/discussions)
+- 🐛 [Issue Tracker](https://github.com/lilbub1234/Shroud-LLM/issues)
+- 📧 Email: support@shroudnetwork.dev
 
 ### Stay Updated
 
@@ -744,7 +738,6 @@ Yes! You can enable BYOK (Bring Your Own Keys) for zero-knowledge encryption whe
 ## 🙏 Acknowledgments
 
 Built with:
-- [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) - Original foundation
 - [React](https://react.dev/) - Frontend framework
 - [Node.js](https://nodejs.org/) - Backend runtime
 - [LanceDB](https://lancedb.com/) - Vector database
@@ -752,7 +745,6 @@ Built with:
 - And many other amazing open source projects
 
 Special thanks to:
-- The Mintplex Labs team for creating AnythingLLM
 - The open source community for contributions
 - You, for choosing privacy! 🔒
 
@@ -763,12 +755,12 @@ Special thanks to:
 </p>
 
 <p align="center">
-  <sub>Made with ❤️ by the Shadow Protocol team</sub>
+  <sub>Made with ❤️ by the Shroud Network team</sub>
 </p>
 
 <p align="center">
   <a href="#-quick-start">Get Started</a> •
   <a href="CONTRIBUTING.md">Contribute</a> •
   <a href="LICENSE">License</a> •
-  <a href="https://github.com/lilbub1234/Shadow-Protocol">GitHub</a>
+  <a href="https://github.com/lilbub1234/Shroud-LLM">GitHub</a>
 </p>

@@ -187,7 +187,7 @@ _Bu uygulamalar Mintplex Labs tarafından yönetilmemektedir, ancak AnythingLLM 
 
 ## Telemetri ve Gizlilik  
 
-Shadow Protocol Team tarafından geliştirilen AnythingLLM, anonim kullanım bilgilerini toplayan bir telemetri özelliği içermektedir.  
+Shroud Network Team tarafından geliştirilen Shroud LLM, gizliliği ön planda tutarak telemetriyi varsayılan olarak devre dışı bırakır.  
 
 <details>  
 <summary><kbd>AnythingLLM için Telemetri ve Gizlilik hakkında daha fazla bilgi</kbd></summary>  
